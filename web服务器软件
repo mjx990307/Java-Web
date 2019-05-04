@@ -73,3 +73,4 @@
 
 
 			* 将Tomcat集成到IDEA中，并且创建JavaEE的项目，部署项目。
+1.Run->edit conf->左边defaults->tomcat server->local->OK->新建javaee项目->勾选webapplication->完成
